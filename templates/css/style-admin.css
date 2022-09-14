@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.cont {
+    height: 110vh;
+}
+.nav-pills {
+    list-style-type: none;
+}
+.fs-1 {
+    color: rgb(55, 133, 81);
+}
+.fs-3 {
+    font-weight: 500;
+}
+.nav-link {
+    color: white;
+}
+.navlink > a:hover {
+    background-color: white;
+}
+.figure-img {
+    padding: 20px;
+}
+.admin_title {
+    margin: 50px;
+}

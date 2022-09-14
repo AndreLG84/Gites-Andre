@@ -1,0 +1,8 @@
+ADMIN : 
+Edit avec base de données qui change les info (info_logement)
+Styliser les formulaires edit et entrer (Bootstrap de préférence)
+CLIENT : 
+slider mettre img PAGE 1
+styliser page 4 (page de retour a l'accueil après réservation)
+finaliser style (couleurs, hovers,...) 
+améliorer les perf du site et la sécurité 
