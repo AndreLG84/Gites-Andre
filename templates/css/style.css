@@ -22,7 +22,8 @@ html {
 .en-tete {
     display: flex;
     justify-content: space-between;
-    padding: 20px 0 0 20px;
+    align-items: center;
+    padding: 40px;
 }
 .main-header > figure {
     opacity: 90%;
@@ -42,13 +43,13 @@ html {
 }
 #main-menu > ul > li:hover > a {
     background-color: whitesmoke;
-    border-radius: 10px;
+    border-radius: 5px;
     color:rgb(61, 47, 9);
     transition: all .5s ease;
     border: 2px solid grey;
 }
 #main-menu > ul > li > a {
-    font-size: 17px;
+    font-size: 20px;
     letter-spacing: 1px;
     font-weight: 600;
     color:white;
@@ -56,10 +57,10 @@ html {
     font-style: normal;
     text-transform: uppercase;
     line-height: 70px;
-    padding: 0 10px;
+    padding: 5px 10px;
 }
 .titre {
-    color: whitesmoke;
+    color: whitesmoke; 
     margin-left: 20px;
     padding-top: 120px;
     text-shadow: 2px 2px 2px gray;
